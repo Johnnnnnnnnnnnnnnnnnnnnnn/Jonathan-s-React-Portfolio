@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+}
+
+.mainHeader {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    padding: 0px;
+    margin: 0px;
+}
+
+.myName {
+    margin: 10px;
+    padding: 10px;
+}
+
+.unorderedList {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.listItem {
+    margin: 10px;
+    padding: 10px;
+}
+
+.footerDiv {
+    align-items: center;
+}
+
+.footerImg {
+    max-width:60px;
+    max-height: 60px;
+}
+
+.boldFont {
+    font-weight: bolder;
+}
+
+.active {
+    color: black;
+}

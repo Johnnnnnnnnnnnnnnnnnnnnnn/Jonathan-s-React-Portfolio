@@ -1,0 +1,9 @@
+.profileImg {
+    max-width: 20%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.margin {
+    margin: 10px;
+}
