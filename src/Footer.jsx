@@ -1,8 +1,8 @@
 import './styles/Body.css'
 import Profile from './assets/profile.jpg'
-import Githublogo  from './assets/Githublogo.jpg'
-import Linkedinlogo from './assets/Linkedinlogo.jpg'
-import Instagramlogo from './assets/Instagramlogo.jpg'
+import Githublogo  from './assets/githublogo.jpg'
+import Linkedinlogo from './assets/linkedinlogo.jpg'
+import Instagramlogo from './assets/instagramlogo.jpg'
 
 function Footer() {
     return (
